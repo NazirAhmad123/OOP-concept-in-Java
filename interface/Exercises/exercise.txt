@@ -1,0 +1,10 @@
+Exercise.
+
+Add another class called "MobilePhone".
+
+
+add an extra variable of type boolean called isOn(); to indicate if the mobilePhone is on or off.
+
+Implement all the method from the interface in your MobilePhone class.
+
+in your main method, call some of the methods to see how they work.
