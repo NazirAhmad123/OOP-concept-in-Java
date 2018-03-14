@@ -7,3 +7,22 @@ Create two additional methods.
   		but not allow the withdrawal to complete if the balance is not sufficient.
         You will want to create various code in the main class to conform your code is working.
         add some System.out.println's in the two methods above as well.
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+// Create a new class called VipCustomers
+// It should have 3 fields, name, credit limit and email address
+// Create three constructors
+// 1th constructor empty should call the constructor with 3 parameters with default values
+// 2th constructor should pass on the two values it receives and add a default value for te third
+// 3th constructor should save all the fields
+// Create getters to test if they work.
